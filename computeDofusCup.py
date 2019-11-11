@@ -339,6 +339,6 @@ if topFlag == True:
     linkArray = topLinkArray
     teamLinkArray = topTeamLinkArray
 
-#removeForfait(
+#removeForfait()    #retire les équipes qui ont au moins 1 forfait.
 writeStats()
 writeOutput()
